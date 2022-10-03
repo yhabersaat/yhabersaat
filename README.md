@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Yves here 👋</h1>
-<h2 align="center">Office Development MVP & MCT | Business Applications Consultant</h2>
+<h2 align="center">Microsoft 365 Development MVP & MCT | Business Applications Consultant</h2>
 
 - 💻 Working for [Sword Group](https://www.sword-group.com) and based in Lausanne area, Switzerland
 - 💬 Ask me anything about Microsoft 365, Azure, Dynamics 365 & Power Platform development topics
