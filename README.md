@@ -28,7 +28,7 @@ I'm passionate about helping organizations build smart, scalable solutions using
 
 ### 📬 Let's Connect
 
-- 🐦 Twitter: [@yhabersaat](https://twitter.com/yhabersaat)  
+- ❌ X (formerly Twitter): [@yhabersaat](https://x.com/yhabersaat)   
 - 💼 LinkedIn: [linkedin.com/in/yhabersaat](https://linkedin.com/in/yhabersaat)  
 
 ---
