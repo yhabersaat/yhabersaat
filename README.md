@@ -1,8 +1,42 @@
-<h1 align="center">Hi, Yves here 👋</h1>
-<h2 align="center">M365 Development MVP & MCT | Business Applications Consultant & AI Tech Lead</h2>
+## 👋 Hi there, I'm Yves
 
-- 💻 Working for [Sword Group](https://www.sword-group.com) and based in Lausanne, Switzerland
-- 💬 Ask me anything about Microsoft 365, Azure, Dynamics 365 & Power Platform development/extensibility topics
-- ✍️ Writing technical articles and sharing my developer experiences on my blog [www.yhabersaat.ch](https://www.yhabersaat.ch)
-- 📫 Feel free to reach me out on Twitter [@yhabersaat](https://www.twitter.com/yhabersaat) or LinkedIn [in/yhabersaat](https://www.linkedin.com/in/yhabersaat)
-- 🤖 Microsoft 365 Copilot extensibility addict (Power Platform connectors, Graph connectors, Plugins, and more!)
+🎯 **Microsoft 365 Development MVP** | **MCT**  
+🧠 **Business Applications Consultant & AI Tech Lead**  
+📍 Based in Lausanne, Switzerland | Working @ [Sword Group](https://www.sword-group.com)
+
+---
+
+### 💼 What I Do
+
+I'm passionate about helping organizations build smart, scalable solutions using:
+
+- **Microsoft 365**
+- **Azure**
+- **Power Platform**
+- **Dynamics 365**
+
+---
+
+### 🧑‍🏫 I Share What I Learn
+
+📝 I regularly write technical deep-dives and tutorials on my blog:  
+🔗 [**www.yhabersaat.ch**](https://www.yhabersaat.ch)
+
+💬 Ask me anything about Microsoft cloud development — I love to chat tech and share experiences.
+
+---
+
+### 📬 Let's Connect
+
+- 🐦 Twitter: [@yhabersaat](https://twitter.com/yhabersaat)  
+- 💼 LinkedIn: [linkedin.com/in/yhabersaat](https://linkedin.com/in/yhabersaat)  
+
+---
+
+### 🤖 Obsessed With Copilot Extensibility
+
+Exploring and building with:  
+🔹 Power Platform connectors  
+🔹 Microsoft Graph connectors  
+🔹 Plugins & APIs for Copilot  
+🔹 Everything that makes Microsoft 365 smarter  
