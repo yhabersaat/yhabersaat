@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Yves
 
-🎯 **Microsoft 365 Development MVP** | **MCT**  
+🎯 **Microsoft MVP (M365)** | **MCT**  
 🧠 **Business Applications Consultant & AI Tech Lead**  
 📍 Based in Lausanne, Switzerland | Working @ [Sword Group](https://www.sword-group.com)
 
