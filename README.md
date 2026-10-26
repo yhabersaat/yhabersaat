@@ -77,7 +77,7 @@ I regularly publish articles, technical deep-dives, and real-world experiences a
 - 💼 [LinkedIn](https://linkedin.com/in/yhabersaat)
 - 🌐 [Website](https://www.yhabersaat.ch)
 - 🎤 [Sessionize](https://sessionize.com/yhabersaat)
-- 🐦 [X / Twitter](https://xt
+- 🐦 [X / Twitter](https://x.com/yhabersaat)
 
 ---
 
